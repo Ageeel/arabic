@@ -1,0 +1,13 @@
+name: my_flet_app
+description: "تطبيق تجريبي باستخدام Flet 0.19.0"
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flet: 0.19.0
+  # يمكنك إضافة مكتبات أخرى هنا إذا احتجت
+
+flutter:
+  uses-material-design: true
